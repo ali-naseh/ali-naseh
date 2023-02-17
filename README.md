@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-naseh&label=Profile%20views&color=0e75b6&style=flat" alt="ali-naseh" /> </p>
 
-- 🌱 I’m currently learning **Web Development(C#)**
+- 🌱 I’m currently learning **Reactjs library**
 
 - 📫 How to reach me **aliahadi11n@gmail.com**
 
